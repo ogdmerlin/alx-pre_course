@@ -1,1 +1,1 @@
-My first readme practicing from ALX Sodtware engineering bootcamp. Hurray!!
+My first readme practicing from ALX Software engineering bootcamp. Hurray!!
